@@ -8,10 +8,11 @@ date: 2019-04-09
 ![valine](https://img.shields.io/badge/valine-1.3.4-blue.svg)
 
 ::: tip 介绍
+
 1. 这是一个vuepress主题，旨在添加博客所需的分类、TAB墙、分页、评论等能；<br>
 2. 主题追求极简，根据 vuepress 的默认主题修改而成，官方的主题配置仍然适用；<br>
 3. 你可以打开 [午后南杂](http://recoluan.gitlab.io) 来查看效果。
-:::
+   :::
 
 ## Use
 
@@ -60,4 +61,5 @@ yarn dev
 还是衷心地希望能有更多的朋友参与进来，更快地去完善它。接下来时间允许的情况下，我会开源一款自动生成博客的脚手架，略过配置步骤，直接书写优质内容，这也是我后来逐渐形成的一种信念，就是希望能让这款主题，功能越完善，使用越来越简单。
 
 ## License
+
 [MIT](https://github.com/recoluan/vuepress-theme-reco/blob/master/LICENSE)
