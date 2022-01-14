@@ -66,7 +66,10 @@ module.exports = {
     // 作者头像
     authorAvatar: '/conan.png',
     // 备案号
-    record: '3401972225860',
+    record: '湘ICP备2022000762号-1',
+    recordLink: 'https://beian.miit.gov.cn/#/Integrated/index',
+    cyberSecurityRecord: '公安部备案文案',
+    cyberSecurityLink: '公安部备案',
     // 项目开始时间
     startYear: '2021'
     /**
