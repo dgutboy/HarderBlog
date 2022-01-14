@@ -1,5 +1,5 @@
 module.exports = {
-  title: "About | Harder Blog",
+  title: "阿浩的coding日记",
   description: '一个编程小白学习之旅',
   dest: 'public',
   head: [
