@@ -1,7 +1,7 @@
 ---
 home: true
 heroText: 杨同学
-tagline: 从0到1的学习
+tagline: None Bug
 # heroImage: /hero.png
 # heroImageStyle: {
 #   maxWidth: '600px',

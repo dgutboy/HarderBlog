@@ -3,7 +3,7 @@ module.exports = {
   description: '一个编程小白学习之旅',
   dest: 'public',
   head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/favico.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   theme: 'reco',
@@ -53,6 +53,12 @@ module.exports = {
         link: 'http://wpa.qq.com/msgrd?v=3&uin=1511673630&site=qq&menu=yes'
       },
     ],
+	//socialLinks: [     // 信息栏展示社交信息
+	//{ icon: 'reco-github', link: 'https://github.com/recoluan' },
+	//{ icon: 'reco-npm', link: 'https://www.npmjs.com/~reco_luan' }
+	//],
+	//默认暗色模式
+	mode: 'dark', 
     logo: '/logo.png',
     // 搜索设置
     search: true,
