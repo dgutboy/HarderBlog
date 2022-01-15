@@ -7,7 +7,17 @@ module.exports = {
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   theme: 'reco',
+  plugins: {
+		
+  },
   themeConfig: {
+	    /**
+     * valine 设置 (if you need valine comment )
+     */
+    valineConfig: {
+      appId: 'AaoIs7L2ga97T7nuy6QJEpCr-gzGzoHsz',// your appId
+      appKey: 'O8HTPaMbCGsTyPGt1tOf0jMe', // your appKey
+    },
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
       { text: '时间线', link: '/timeline/', icon: 'reco-date' },
@@ -88,14 +98,6 @@ module.exports = {
     //  lineColor: '#42b983' // 登录页动画线的颜色
     //},
 
-    /**
-     * valine 设置 (if you need valine comment )
-     */
-
-    // valineConfig: {
-    //   appId: '...',// your appId
-    //   appKey: '...', // your appKey
-    // }
   },
   markdown: {
     lineNumbers: true
