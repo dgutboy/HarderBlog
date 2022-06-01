@@ -104,17 +104,17 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  configureWebpack: () => {
-    const NODE_ENV = process.env.NODE_ENV
-    return {
-      output: {
-        publicPath: 'https://code.bdstatic.com/npm/leancloud-storage@4.12.0/dist/av-min.js'
-      },
-      resolve: {
-        alias: {
-          'public': path.resolve(__dirname, './public') 
-        }
-      }
-    }
-  }
+  // configureWebpack: () => {
+  //   const NODE_ENV = process.env.NODE_ENV
+  //   return {
+  //     output: {
+  //       publicPath: 'https://code.bdstatic.com/npm/leancloud-storage@4.12.0/dist/av-min.js'
+  //     },
+  //     resolve: {
+  //       alias: {
+  //         'public': path.resolve(__dirname, './public') 
+  //       }
+  //     }
+  //   }
+  // }
 }  
