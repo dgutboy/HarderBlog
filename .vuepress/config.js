@@ -15,8 +15,9 @@ module.exports = {
      * valine 设置 (if you need valine comment )
      */
     valineConfig: {
-      appId: 'AaoIs7L2ga97T7nuy6QJEpCr-gzGzoHsz',// your appId
-      appKey: 'O8HTPaMbCGsTyPGt1tOf0jMe', // your appKey
+      appId: 'CpIUrhRqiko2izx8Bqp1GipU-MdYXbMMI',// your appId
+      appKey: 'uguirb0XIu2dDwd4ffPPyJhK', // your appKey
+      serverURLs: 'https://cpiurhrq.api.lncldglobal.com',
     },
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
