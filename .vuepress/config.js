@@ -1,3 +1,5 @@
+const path = require('path')
+
 module.exports = {
   title: "阿浩的coding日记",
   description: '一个编程小白学习之旅',
@@ -17,7 +19,6 @@ module.exports = {
     valineConfig: {
       appId: 'CpIUrhRqiko2izx8Bqp1GipU-MdYXbMMI',// your appId
       appKey: 'uguirb0XIu2dDwd4ffPPyJhK', // your appKey
-      serverURLs: 'https://cpiurhrq.api.lncldglobal.com',
     },
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
@@ -102,5 +103,18 @@ module.exports = {
   },
   markdown: {
     lineNumbers: true
+  },
+  configureWebpack: () => {
+    const NODE_ENV = process.env.NODE_ENV
+    return {
+      output: {
+        publicPath: 'https://code.bdstatic.com/npm/leancloud-storage@4.12.0/dist/av-min.js'
+      },
+      resolve: {
+        alias: {
+          'public': path.resolve(__dirname, './public') 
+        }
+      }
+    }
   }
 }  
