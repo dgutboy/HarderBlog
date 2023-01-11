@@ -17,8 +17,9 @@ module.exports = {
      * valine 设置 (if you need valine comment )
      */
     valineConfig: {
-      appId: 'CpIUrhRqiko2izx8Bqp1GipU-MdYXbMMI',// your appId
-      appKey: 'uguirb0XIu2dDwd4ffPPyJhK', // your appKey
+      appId: process.env.YOUR_APPID,// your appId
+      appKey: process.env.YOUR_KEY, // your appKey
+      serverURLs: 'https://blogapi.shenghao.xyz'
     },
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
