@@ -1,7 +1,7 @@
 ---
-title:Web自动化测试价值与体系
-date:2023-03-23
-categories：
+title: Web自动化测试价值与体系
+date: 2023-03-23
+categories:
  - 测试
 tags:
  - web自动化
