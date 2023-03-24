@@ -1,6 +1,7 @@
 ---
 title: Python数据结构
 date: 2023-03-23
+sidebar: auto
 categories: 
  - Python
 tags:

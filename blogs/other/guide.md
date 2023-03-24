@@ -1,5 +1,6 @@
 ---
 title: vuepress-theme-reco
+sidebar: auto
 date: 2019-04-09
 ---
 

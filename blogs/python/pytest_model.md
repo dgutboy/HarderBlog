@@ -1,6 +1,7 @@
 ---
 title: Pytest框架
 date: 2023-03-23
+sidebar: auto
 categories: 
  - 测试
 tags:

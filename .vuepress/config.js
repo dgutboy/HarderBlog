@@ -10,9 +10,9 @@ module.exports = {
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
   ],
   theme: 'reco',
-  plugins: {
+  plugins: [
 		
-  },
+  ],
   themeConfig: {
 	    /**
      * valine 设置 (if you need valine comment )
@@ -38,15 +38,6 @@ module.exports = {
         ]
       }
     ],
-	//文档侧边栏
-    sidebar: {
-      '/docs/theme-reco/': [
-        '',
-        'theme',
-        'plugin',
-        'api'
-      ]
-    },  
     type: 'blog',
     // 博客设置
     blogConfig: {
@@ -79,6 +70,15 @@ module.exports = {
     searchMaxSuggestions: 10,
     // 自动形成侧边导航
     // sidebar: 'auto',
+    // 文档侧边栏
+    sidebar: {
+      '/docs/theme-reco/': [
+        '',
+        'theme',
+        'plugin',
+        'api'
+      ],
+    },  
     // 最后更新时间
     lastUpdated: 'Last Updated',
     // 作者
