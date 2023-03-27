@@ -4,7 +4,7 @@ module.exports = {
   title: "阿浩的coding日记",
   description: '一个编程小白学习之旅',
   dest: 'public',
-  permalink: "/:year/:month/:day/:slug",
+  permalink: "/:regular",
   head: [
     ['link', { rel: 'icon', href: '/favico.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
