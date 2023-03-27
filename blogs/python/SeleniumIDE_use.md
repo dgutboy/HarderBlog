@@ -2,7 +2,7 @@
 title: 自动化用例录制
 date: 2023-03-26
 sidebar: auto
-categories：
+categories:
  - 测试
 tags:
  - web自动化

@@ -2,7 +2,7 @@
 title: 强制等待与隐式等待
 date: 2023-03-27
 sidebar: auto
-categories：
+categories:
  - 测试
 tags:
  - web自动化
