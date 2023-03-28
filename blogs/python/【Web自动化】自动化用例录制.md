@@ -1,5 +1,5 @@
 ---
-title: 自动化用例录制
+title: 【Web自动化】自动化用例录制
 date: 2023-03-26
 sidebar: auto
 categories:

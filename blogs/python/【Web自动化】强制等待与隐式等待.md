@@ -1,5 +1,5 @@
 ---
-title: 强制等待与隐式等待
+title: 【Web自动化】强制等待与隐式等待
 date: 2023-03-27
 sidebar: auto
 categories:

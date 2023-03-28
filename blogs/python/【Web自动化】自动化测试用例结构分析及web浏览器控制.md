@@ -1,5 +1,5 @@
 ---
-title: 自动化测试用例结构分析及web浏览器控制
+title: 【Web自动化】自动化测试用例结构分析及web浏览器控制
 date: 2023-03-26
 sidebar: auto
 categories:
