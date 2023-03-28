@@ -1,5 +1,5 @@
 ---
-title: 【Web自动化】常见web控件定位方法
+title: 【Web自动化】常见控件定位方法
 date: 2023-03-26
 sidebar: auto
 categories:
