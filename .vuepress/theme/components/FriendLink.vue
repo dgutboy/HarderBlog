@@ -31,7 +31,7 @@
                   target="_blank">GO</a>
               </div>
               <p v-if="item.desc">{{ item.desc }}</p>
-              <img src="http://cdn.shenghao.xyz/img/blog/qrcode.png" style="zoom: 50%;"/>
+              <img src="qr_code.png" style="zoom: 50%;"/>
             </div>
           </div>
         </div>
