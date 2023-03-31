@@ -17,7 +17,8 @@ module.exports = {
       {
         transformer: (timestamp, lang) => {
           const moment = require('moment')
-          return moment(timestamp,).format("YYYY年MM月DD日 HH:mm:ss")
+          moment.locale("zh_CN")
+          return moment(timestamp).format("YYYY年MM月DD日 HH:mm:ss")
         },
         dateOptions:{
           hour12: false
