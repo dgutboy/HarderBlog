@@ -17,8 +17,7 @@ module.exports = {
       {
         transformer: (timestamp, lang) => {
           const moment = require('moment')
-          moment.locale("zh_CN")
-          return moment(timestamp).format("YYYY年MM月DD日 HH:mm:ss")
+          return moment(timestamp).utcOffset(8).format("YYYY年MM月DD日 HH:mm:ss")
         },
         dateOptions:{
           hour12: false
