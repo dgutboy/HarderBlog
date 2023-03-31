@@ -16,7 +16,7 @@ tags:
 | css selector (重点) | css 表达式                                                   |
 | id (重点)           | id属性对应的值                                               |
 | name (重点)         | name属性对应的值                                             |
-| link text           | xxxxxxxxxx16 1def element_get_attr():2    # 1、实例化driver对象3    driver = webdriver.Chrome()4    # 2、打开一个网页5    driver.get("https://vip.ceshiren.com/#/ui_study")6    # 3、定位一个元素7    web_element = driver.find_element(By.ID, "locate_id")8    # 4、打印这个元素对象9    # 断点打在想看的对象的下一行10    # print(web_element)11    # 5、获取元素的文本信息12    # 不是每个元素都含有文本信息的13    # print(web_element.text)14    # 6、获取元素的属性信息，title="xxx"15    res = web_element.get_attribute("class")16    print(res)python |
+| link text           | 查找其可见文本与搜索值匹配的锚元素。(可匹配多个)             |
 | partial link text   | 查找其可见文本包含搜索值的锚元素。如果多个元素匹配，则只会选择第一个元素 |
 | tag name            | 标签名称                                                     |
 | xpath (重点)        | xpath表达式                                                  |

@@ -31,6 +31,7 @@
                   target="_blank">GO</a>
               </div>
               <p v-if="item.desc">{{ item.desc }}</p>
+              <img src="http://cdn.shenghao.xyz/img/blog/qrcode.png" style="zoom: 50%;"/>
             </div>
           </div>
         </div>
@@ -132,7 +133,7 @@ export default defineComponent({
       const { logo = '', email = '' } = info
       if (logo && /^http/.test(logo)) return logo
       if (logo && !/^http/.test(logo)) return instance.$withBase(logo)
-      return `//1.gravatar.com/avatar/${md5(email || '')}?s=50&amp;d=mm&amp;r=x`
+      return `//q.qlogo.cn/headimg_dl?dst_uin=${email || ''}&spec=40&img_type=jpg`
     }
 
     return { dataAddColor, popupWindowStyle, showDetail, hideDetail, getImgUrl }
