@@ -65,9 +65,9 @@ module.exports = {
     friendLink: [
       {
         title: 'QQ',
-        desc: 'Do you have any question? Contact with me.',
+        desc: '有问题吗？请使用QQ联系我~',
         email: '1511673630@qq.com',
-        link: 'http://wpa.qq.com/msgrd?v=3&uin=1511673630&site=qq&menu=yes'
+        link: 'https://qm.qq.com/cgi-bin/qm/qr?k=cGuCpXonGrniN3psKi3sHC5paymxo52H&jump_from=webapi&authKey=o5mW5XbT3KdAY5LeLg+6j1SDrIcz7C1+Vk3ztAIe0DriAM7Bxjn0Vaq6HteXTZ03'
       },
     ],
 	//socialLinks: [     // 信息栏展示社交信息
