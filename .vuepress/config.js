@@ -1,4 +1,5 @@
-const path = require('path')
+const path = require('path');
+const moment = require('moment');
 
 module.exports = {
   title: "阿浩的coding日记",
@@ -11,7 +12,18 @@ module.exports = {
   ],
   theme: 'reco',
   plugins: [
-		
+    [
+      '@vuepress/last-updated',
+      {
+        transformer: (timestamp, lang) => {
+          const moment = require('moment')
+          return moment(timestamp,).format("YYYY年MM月DD日 HH:mm:ss")
+        },
+        dateOptions:{
+          hour12: false
+        }
+      }
+    ]
   ],
   themeConfig: {
 	    /**
@@ -80,7 +92,7 @@ module.exports = {
       ],
     },  
     // 最后更新时间
-    lastUpdated: 'Last Updated',
+    lastUpdated: '上次更新',
     // 作者
     author: 'Harder',
     // 作者头像
