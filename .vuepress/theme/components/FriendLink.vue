@@ -31,7 +31,7 @@
                   target="_blank">GO</a>
               </div>
               <p v-if="item.desc">{{ item.desc }}</p>
-              <img src="qr_code.png" style="zoom: 50%;"/>
+              <img src="qr_code.png" :style="{ width: '60%' }"/>
             </div>
           </div>
         </div>
