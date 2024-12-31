@@ -8,7 +8,8 @@ module.exports = {
   permalink: "/:regular",
   head: [
     ['link', { rel: 'icon', href: '/favico.ico' }],
-    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
+    ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]，
+    ['script', { src: '/leancloud/av-min.js' }]
   ],
   theme: 'reco',
   plugins: [
