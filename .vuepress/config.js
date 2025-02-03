@@ -33,7 +33,7 @@ module.exports = {
     valineConfig: {
       appId: process.env.YOUR_APPID,// your appId
       appKey: process.env.YOUR_KEY, // your appKey
-      serverURLs: 'https://blogapi.shenghao.xyz'
+      serverURLs: 'https://blogapi.cookcode.xyz'
     },
     nav: [
       { text: '主页', link: '/', icon: 'reco-home' },
