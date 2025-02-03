@@ -99,10 +99,10 @@ module.exports = {
     // 作者头像
     authorAvatar: '/conan.png',
     // 备案号
-    record: '湘ICP备2022000762号-1',
-    recordLink: 'https://beian.miit.gov.cn/#/Integrated/index',
-    cyberSecurityRecord: '粤公网安备 44130202001064号',
-    cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44130202001064',
+    // record: '湘ICP备暂无号-1',
+    // recordLink: 'https://beian.miit.gov.cn/#/Integrated/index',
+    // cyberSecurityRecord: '粤公网安备 暂无号',
+    // cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=none',
     // 项目开始时间
     startYear: '2021'
     /**
