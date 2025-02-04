@@ -42,3 +42,20 @@ git push
 
 可以将以上命令写成一个cmd命令，便于每次上传操作简单，如图所示：
 
+![image-20250204132547064](http://cdn.cookcode.xyz/img/blog/image-20250204132547064.png)
+
+## 忽略某些文件上传
+
+当我们在项目目录下有一些不需要上传到远程仓库的文件，我们可以编辑.gitignore文件，输入你无需上传的文件名和目录即可。
+
+```txt
+# .gitignore文件
+node_modules/
+yarn.lock
+yarn.error
+push.cmd
+```
+
+-----
+
+以上介绍了如何操作本地与远程仓库的基本操作，接下来将继续说明Git其它操作。
