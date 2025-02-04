@@ -41,7 +41,8 @@ module.exports = {
       { text: '文档', 
         icon: 'reco-message',
         items: [
-          { text: '我的文档', link: '/docs/theme-reco/' }
+          { text: '我的文档', link: '/docs/theme-reco/' },
+          { text: '测试文档', link: '/docs/test-docs/' }
         ]
       },
       { text: '联系作者', 
