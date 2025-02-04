@@ -1,6 +1,6 @@
 ---
 title: 01-linux启用SSH连接(附连接工具)
-date: 2022-04-14
+date: 2022-04-13
 sidebar: auto
 tags:
  - 配置那些事
