@@ -58,4 +58,4 @@ ssh -T git@github.com
 
 ![image-20250204123005290](http://cdn.cookcode.xyz/img/blog/image-20250204123005290.png)
 
-恭喜你，已经配置完成了，下面[使用bash进行仓库操作](./04-拉取和上传到Github仓库)吧！
+恭喜你，已经配置完成了，下面[使用bash进行仓库操作](./04-拉取和上传到Github仓库.md)吧！
