@@ -23,7 +23,9 @@ categories:
 
 ## 系统架构设计
 
-![img](http://cdn.cookcode.xyz/img/blog/wps1.png#pic_center)
+<div algin="center">
+    <img src="http://cdn.cookcode.xyz/img/blog/wps1.png#pic_center" alt="img"  />
+</div>
 
 ## 小程序前台
 
@@ -62,7 +64,9 @@ categories:
 
 点击报名，志愿活动报名成功界面如图6-4所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps5.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps5.jpg" alt="img">
+</div>
 
 <center>图 6-4 志愿活动报名成功界面</center>
 
@@ -72,7 +76,9 @@ categories:
 
 我的界面如图6-5所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps6.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps6.jpg" alt="img">
+</div>
 
 <center>图 6-5 我的界面</center>
 
@@ -82,9 +88,11 @@ categories:
 
 扫码计时功能如图6-6所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps7.png#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps7.jpg" alt="img">
+</div>
 
- 
+
 
 <center>图 6-6 扫码计时界面</center>
 
@@ -92,7 +100,9 @@ categories:
 
 计时成功界面如图6-7所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps8.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps8.jpg" alt="img">
+</div>
 
 <center>图 6-7 计时成功界面</center>
 
@@ -102,7 +112,10 @@ categories:
 
 个人资料修改界面如图6-8所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps9.jpg#pic_center) ![img](http://cdn.cookcode.xyz/img/blog/wps10.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps9.jpg" alt="img">
+<img src="http://cdn.cookcode.xyz/img/blog/wps10.jpg" alt="img">
+</div>
 
 <center>图 6-8 个人资料修改界面</center>
 
@@ -114,7 +127,10 @@ categories:
 
 用户反馈界面如图6-9所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps11.jpg#pic_center) ![img](http://cdn.cookcode.xyz/img/blog/wps12.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps11.jpg" alt="img">
+<img src="http://cdn.cookcode.xyz/img/blog/wps12.jpg" alt="img">
+</div>
 
 <center>图 6-9 用户反馈界面</center>
 
@@ -124,7 +140,10 @@ categories:
 
 中央认证界面如图6-10所示：
 
-![image-20250205190724830](http://cdn.cookcode.xyz/img/blog/image-20250205190724830.png#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/image-20250205190724830.png" alt="img" style="zoom:50%;">
+</div>
+
 
 <center>图 6-10 中央认证界面</center>
 
@@ -136,7 +155,9 @@ categories:
 
 后台管理界面如图6-11所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps14.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps14.jpg" alt="img">
+</div>
 
 <center> 图 6-11 后台管理界面</center>
 
@@ -146,19 +167,25 @@ categories:
 
 志愿活动管理界面如图6-12所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps15.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps15.jpg" alt="img">
+</div>
 
  <center>图 6-12 志愿活动界面</center>
 
 报名人员名单界面如图6-13所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps16.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps16.jpg" alt="img">
+</div>
 
  <center>图 6-13 报名人员名单界面</center>
 
 生成签到二维码界面如图6-14所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps17.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps17.jpg" alt="img">
+</div>
 
  <center>图 6-14 生成签到二维码界面</center>
 
@@ -168,7 +195,9 @@ categories:
 
 部门管理界面如图6-15所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps18.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps18.jpg" alt="img">
+</div>
 
  <center>图 6-15 部门管理界面</center>
 
@@ -178,7 +207,10 @@ categories:
 
 权限管理界面如图6-16所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps19.jpg#pic_center)![img](http://cdn.cookcode.xyz/img/blog/wps20.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps19.jpg" alt="img">
+<img src="http://cdn.cookcode.xyz/img/blog/wps20.jpg" alt="img">
+</div>
 
 
 图 6-16 权限管理界面
@@ -191,7 +223,10 @@ categories:
 
 内容管理界面如图6-17所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps21.jpg#pic_center) ![img](http://cdn.cookcode.xyz/img/blog/wps22.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps21.jpg" alt="img">
+<img src="http://cdn.cookcode.xyz/img/blog/wps22.jpg" alt="img">
+</div>
 
 <center>图 6-17 内容管理界面</center>
 
@@ -201,7 +236,9 @@ categories:
 
 学分转换界面如图6-18所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps23.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps23.jpg" alt="img">
+</div>
 
 <center> 图 6-18 学分转换界面</center>
 
@@ -211,7 +248,10 @@ categories:
 
 反馈管理界面如图6-19所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps24.jpg#pic_center) ![img](http://cdn.cookcode.xyz/img/blog/wps25.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps24.jpg" alt="img">
+<img src="http://cdn.cookcode.xyz/img/blog/wps25.jpg" alt="img">
+</div>
 
 <center>图 6-19 反馈管理界面</center>
 
@@ -219,7 +259,9 @@ categories:
 
 1、在微信小程序端配置后端域名，七牛云存储bucket区域和域名。
 
-![image-20250205200124171](http://cdn.cookcode.xyz/img/blog/image-20250205200124171.png#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/image-20250205200124171.png" alt="img">
+</div>
 
 2、在后端`项目目录\egg_volunteer\config\database.php`中配置数据库相关参数，并将sql文件导入数据库。
 
@@ -229,7 +271,9 @@ categories:
 
 5、注意，中央认证功能需要借助Python程序执行，需要安装的环境如下图所示。
 
-![image-20250205204329866](http://cdn.cookcode.xyz/img/blog/image-20250205204329866.png#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/image-20250205204329866.png" alt="img">
+</div>
 
 > 如无需使用中央认证及七牛云存储（头像功能），则无需进行3、4、5步配置，只需要配置1、2即可。
 
