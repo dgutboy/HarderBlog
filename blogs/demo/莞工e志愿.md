@@ -33,8 +33,9 @@ categories:
 
 小程序首页功能界面如图6-1所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps2.jpg#pic_center)
-
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps2.jpg" alt="活动浏览功能界面">
+</div>
 
 <center>图 6-1 活动浏览功能界面</center>
 
@@ -44,14 +45,18 @@ categories:
 
 小程序活动列表界面如图6-2所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps3.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps3.jpg" alt="img">
+</div>
 
 
 <center>图 6-2 活动列表界面</center>
 
 用户点击进入活动详情页，点击报名。志愿活动报名详情界面如图6-3所示：
 
-![img](http://cdn.cookcode.xyz/img/blog/wps4.jpg#pic_center)
+<div align="center">
+<img src="http://cdn.cookcode.xyz/img/blog/wps4.jpg" alt="img">
+</div>
 
 <center>图 6-3 志愿活动报名详情界面</center>
 
