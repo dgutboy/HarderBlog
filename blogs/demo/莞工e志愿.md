@@ -89,9 +89,8 @@ categories:
 扫码计时功能如图6-6所示：
 
 <div align="center">
-<img src="http://cdn.cookcode.xyz/img/blog/wps7.jpg" alt="img">
+<img src="http://cdn.cookcode.xyz/img/blog/wps7.png" alt="img">
 </div>
-
 
 
 <center>图 6-6 扫码计时界面</center>
