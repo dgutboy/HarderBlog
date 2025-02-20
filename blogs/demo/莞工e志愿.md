@@ -1,6 +1,6 @@
 ---
 title: 莞工e志愿-校园志愿服务与勤工俭学管理
-date: 2025-02-25
+date: 2025-02-05
 sidebar: auto
 tags:
  - PHP
@@ -211,8 +211,7 @@ categories:
 <img src="http://cdn.cookcode.xyz/img/blog/wps20.jpg" alt="img">
 </div>
 
-
-图 6-16 权限管理界面
+ <center>图 6-16 权限管理界面</center>
 
 ### 内容管理模块
 
@@ -261,20 +260,23 @@ categories:
 <div align="center">
 <img src="http://cdn.cookcode.xyz/img/blog/image-20250205200124171.png" alt="img">
 </div>
-
 2、在后端`项目目录\egg_volunteer\config\database.php`中配置数据库相关参数，并将sql文件导入数据库。
 
-3、在后端`项目目录\egg_volunteer\config\qiniu.php`中配置七牛云存储相关key以及bucket。
+3、在后端`项目目录\egg_volunteer\app\controller\Login.php`中配置微信小程序后台相关信息。
 
-4、在后端`项目目录\egg_volunteer\app\service\DgutService.php`中配置**request_url域名**为项目网站域名。
+4、在后端`项目目录\egg_volunteer\config\qiniu.php`中配置七牛云存储相关key以及bucket。
 
-5、注意，中央认证功能需要借助Python程序执行，需要安装的环境如下图所示。
+5、在后端`项目目录\egg_volunteer\app\service\DgutService.php`中配置**request_url域名**为项目网站域名。
+
+6、出于安全考虑，建议在后端`项目目录\egg_volunteer\app\service\AuthService.php`中修改JWT密钥。
+
+7、注意，中央认证功能需要借助Python程序执行，需要安装的环境如下图所示。
 
 <div align="center">
 <img src="http://cdn.cookcode.xyz/img/blog/image-20250205204329866.png" alt="img">
 </div>
 
-> 如无需使用中央认证及七牛云存储（头像功能），则无需进行3、4、5步配置，只需要配置1、2即可。
+> 如无需使用中央认证及七牛云存储（头像功能），则无需进行4、5、6、7步配置，只需要配置1、2、3即可。
 
 ## 项目下载
 
